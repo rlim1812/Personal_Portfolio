@@ -1,0 +1,51 @@
+#fit-image {
+  width: 100%;
+}
+
+#text-spacing {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+#image-spacing{
+  padding-top: auto;
+  padding-bottom: auto;
+}
+
+#image-border {
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
+
+.text-border {
+  border-style: solid;
+  border-width: medium;
+  border-color: grey;
+}
+
+.white-font {
+  color: white;
+}
+
+.stylized-font {
+  font-size: 15px;
+}
+
+.p-spacing {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.spacing {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.image-padding {
+  padding-left: 40px;
+}
